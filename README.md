@@ -54,3 +54,5 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+# Tic-Tac-Toe-Program
+This Program is a Tic tac toe game program, where theres should be 2 people play this game, player should arrange the X or O horizontally or vertical or diagonal
